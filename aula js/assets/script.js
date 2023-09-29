@@ -4,7 +4,7 @@ let input = document.querySelector("#cpf")
 
 // () função anônima
 // => arrow functon
-// funcion nome()
+// funcion nome() pronto
 input.addEventListener("keypress", () => {
 
 let inputlength = input.value.length
